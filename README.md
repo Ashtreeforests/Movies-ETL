@@ -52,11 +52,17 @@
 
 #### Sending the data to PostgresSQL
 
+![image](https://user-images.githubusercontent.com/96931376/163497195-d1401794-d865-4b15-9656-b8cbd6cdcb12.png)
+
 ### Verifying the data in PgAdmin
 
 #### Movies Query
 
+![image](https://user-images.githubusercontent.com/96931376/163497223-7fcb4efe-55af-4a84-9bc9-21563b7094ce.png)
+
 #### Ratings Query
+
+![image](https://user-images.githubusercontent.com/96931376/163497239-a653f4f4-08d9-4b7b-8b50-f9cea4ece5bd.png)
 
 ## Project Summary
 
